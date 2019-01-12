@@ -1,0 +1,56 @@
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form1.resources
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Resources.resources
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.vbproj.GenerateResource.Cache
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\bin\Debug\MATH AID V3.0.exe
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\bin\Debug\MATH AID V3.0.pdb
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\bin\Debug\MATH AID V3.0.xml
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form2.resources
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form3.resources
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form4.resources
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.exe
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.xml
+C:\Users\EDIYE OTTOHO\AppData\Local\Temporary Projects\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.pdb
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.exe
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.xml
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.pdb
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.exe
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.pdb
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.xml
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form1.resources
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form2.resources
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form3.resources
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form4.resources
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Resources.resources
+C:\Users\EDIYE OTTOHO\documents\visual studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.xml
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form1.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form2.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form3.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form4.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form5.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form6.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.exe
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.xml
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.pdb
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.exe
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.pdb
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.xml
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form1.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form2.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form3.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form4.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form5.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Form6.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH_AID_V3._0.Resources.resources
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.vbproj.GenerateResource.Cache
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.exe.manifest
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\bin\Debug\MATH AID V3.0.application
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.exe.manifest
+C:\Users\ZUCKY\Documents\Visual Studio 2012\Projects\MATH AID V3.0\MATH AID V3.0\obj\x86\Debug\MATH AID V3.0.application
